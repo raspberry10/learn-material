@@ -6,7 +6,7 @@
     windows版安装直接[下载git](https://git-scm.com/)安装
 
     mac安装
-    通过 (http://brew.sh/)[brew] 安装。
+    通过 [brew](http://brew.sh/) 安装。
     ``` shell
     sudo brew install git
     ```
